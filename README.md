@@ -22,5 +22,5 @@ TASK 2:
 Description:  
 An email template is a pre-designed email that can be used to send out marketing or promotional emails. The goal of a good email template is to make it easy and quick for businesses to send out emails that look professional and engaging.
 
-Files: [  Email Template ]([https://www.figma.com/design/xcBU4hJXGmMwv8u4MxyZct/TASK-1?node-id=0-1&t=x5nU1W8BUV6xtGCY-1](https://www.figma.com/design/w2YHVlvfW2Q8LW8CYGhQuj/Task-2?node-id=0-1&t=wFKTzrLPyz2q8kjs-1))
+Files: [  Email Template ](https://www.figma.com/design/w2YHVlvfW2Q8LW8CYGhQuj/Task-2?node-id=0-1&t=wFKTzrLPyz2q8kjs-1)
 

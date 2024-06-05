@@ -24,3 +24,12 @@ An email template is a pre-designed email that can be used to send out marketing
 
 Files: [  Email Template ](https://www.figma.com/design/w2YHVlvfW2Q8LW8CYGhQuj/Task-2?node-id=0-1&t=wFKTzrLPyz2q8kjs-1)
 
+TASK 3:  
+
+ Restaurant menu
+
+Description:  
+A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for customers to find the dishes they want, and to encourage them to order more.
+
+Files: [  Restaurant menu ](https://www.figma.com/design/EwMl2G000llSwcqADmS0cT/Task-3?node-id=11-2&t=AKHpQjIVc4V1suGq-1)
+
